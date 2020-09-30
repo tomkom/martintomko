@@ -78,4 +78,4 @@ I am a Spatial Information Scientist and geographic information systems expert. 
 
 # If you are interested in joining my emerging group and tackle some exciting spatial problems, read this and get in touch. 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
